@@ -1,5 +1,5 @@
 
-import App from './App';
+import App from '../src/App';
 
 test('should divide the original array into equal parts when originalArrayLength % numberOfArrays is zero', () => {
   const origArray=[1,2,3,4,5,6];

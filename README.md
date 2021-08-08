@@ -18,16 +18,16 @@ Requires Node.js to be installed.
 ```bash
 yarn install
 ```
-
-### To run locally:
-
-* In a terminal/command line navigate to the project directory.
-* Type `yarn install`
-
 ### To run tests:
 
 * In a terminal/command line navigate to the project directory.
 * Type `yarn install`
 * Type `yarn test`
 
+The tests are located in src/App.test.js file
+
+### To run locally:
+
+* In a terminal/command line navigate to the project directory.
+* Type `yarn install`
 
