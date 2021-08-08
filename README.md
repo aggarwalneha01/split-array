@@ -25,10 +25,10 @@ yarn install
 * Type `yarn test`
 
 The tests are located in test/App.test.js file
-## The following scenarios are covered:
+### The following scenarios are covered:
+* When the length of the array can be divided in to equal parts.
+* When the length of the array can not be divided in to equal parts. In this case the last part will habve the length equal to the remainder.
+* When the number of parts are more than the length of the array. In this case the original array will be returned.
+* When the array is empty, then the error message is returned.
 
-### To run locally:
-
-* In a terminal/command line navigate to the project directory.
-* Type `yarn install`
 
