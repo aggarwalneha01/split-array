@@ -24,7 +24,8 @@ yarn install
 * Type `yarn install`
 * Type `yarn test`
 
-The tests are located in src/App.test.js file
+The tests are located in test/App.test.js file
+## The following scenarios are covered:
 
 ### To run locally:
 
