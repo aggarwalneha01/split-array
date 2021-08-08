@@ -16,13 +16,13 @@ Requires Node.js to be installed.
 ### Setup
 
 ```bash
-yarn install
+npm install
 ```
 ### To run tests:
 
 * In a terminal/command line navigate to the project directory.
-* Type `yarn install`
-* Type `yarn test`
+* Type `npm install`
+* Type `npm test`
 
 The tests are located in test/App.test.js file
 ### The following scenarios are covered:
